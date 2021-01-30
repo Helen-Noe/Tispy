@@ -8,6 +8,6 @@ Practise making multi-screen app with some new UIKit such as UIStepper, UITextFi
 Creating UI Programatically, Swift's Classes, MVC Pattern
 
 ## What does it look like??
-<img src="https://github.com/Helen-Noe/destini/blob/main/tipsy.gif" width="276" height="560">
+<img src="https://github.com/Helen-Noe/Tispy/blob/main/tipsy.gif" width="276" height="560">
 
 * Logic learned from Angela Yu at London App Brewery
